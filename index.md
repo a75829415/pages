@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+---
+layout: home
+permalink: /
 
-You can use the [editor on GitHub](https://github.com/a75829415/pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+title: "Mani Kumar"
+excerpt: "C++, Linux, SIP and 4G software developer"
+action: false
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/a75829415/pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+feature_rows:
+  - title: "Apps"
+    excerpt: "List of apps."
+    url: "/apps/"
+    img_path: "feature_rows/mani_ss_apps.jpg"
+    img_alt: "Apps"
+  - title: "Blog"
+    excerpt: "List of recent blogs."
+    url: "/blog/"
+    img_path: "feature_rows/mani_pexels_blog_write.jpg"
+    img_alt: "Blog"
+  - title: "Projects"
+    excerpt: "List of useful projects."
+    url: "/projects/"
+    img_path: "feature_rows/mani_pexels_projects_ideas.jpg"
+    img_alt: "Projects"
+---
